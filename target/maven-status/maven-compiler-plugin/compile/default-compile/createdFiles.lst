@@ -1,0 +1,12 @@
+com\sg\videogamelibrary\controller\Controller.class
+com\sg\videogamelibrary\dto\VideoGame.class
+com\sg\videogamelibrary\dao\PersistenceException.class
+com\sg\videogamelibrary\dao\Dao.class
+com\sg\videogamelibrary\ui\UserIO.class
+com\sg\videogamelibrary\App.class
+com\sg\videogamelibrary\service\ServiceLayer.class
+com\sg\videogamelibrary\ui\UserIOImpl.class
+com\sg\videogamelibrary\service\ValidInputException.class
+com\sg\videogamelibrary\ui\View.class
+com\sg\videogamelibrary\dao\DaoImpl.class
+com\sg\videogamelibrary\service\ServiceLayerImpl.class

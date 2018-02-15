@@ -1,0 +1,4 @@
+test::test::test
+The Legend of Zelda::The Legend of Zelda is a high-fantasy action-adventure video game series created by Japanese game designers Shigeru Miyamoto and Takashi Tezuka.::10/10
+Pokemon Blue::1v1::10
+test1::test1::test1
